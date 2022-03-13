@@ -1,0 +1,10 @@
+{
+    "monsters": [
+        {
+            "name": "Acid Toad",
+            "life": "300",
+            "speed": "50",
+            "damage": "40"
+        }
+    ]
+}
